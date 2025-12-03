@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+🏠 SHome - Interior Design Website
+📋 Project Overview
+Modern interior design e-commerce website built with React.js & Bootstrap 5 featuring elegant UI, HOC patterns, and smooth animations.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+✨ Key Features
+🎨 Responsive Bootstrap 5 design for all devices
 
-## Available Scripts
+⚛️ React HOC Pattern for reusable animations & sections
 
-In the project directory, you can run:
+🛍️ Featured Products with interactive cards & cart functionality
 
-### `npm start`
+✨ Smooth animations using Intersection Observer
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🏗️ Component-based architecture with reusable UI elements
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🚦 React Router for seamless navigation
 
-### `npm test`
+💝 Wishlist & quick view features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛠️ Tech Stack
+⚛️ React.js 18
 
-### `npm run build`
+🎨 Bootstrap 5
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🔄 React Router DOM
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✨ Animate.css
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🎯 React Icons
 
-### `npm run eject`
+🎯 Highlights
+✅ Production-ready React architecture
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+📱 Mobile-first responsive design
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+⚡ Fast performance with code optimization
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🔧 Easy to extend with modular components
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🎨 Beautiful UI with modern aesthetics
 
-## Learn More
+Perfect showcase for React skills & modern web development! 🚀
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Output - 1 : ![WhatsApp Image 2025-12-03 at 11 08 36](https://github.com/user-attachments/assets/626c1369-ec53-40ee-9efd-3b9bf3f574aa)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Output - 2 : ![WhatsApp Image 2025-12-03 at 11 08 55](https://github.com/user-attachments/assets/bb5a45c9-de4a-4e59-88a3-12f6f17d78a5)
