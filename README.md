@@ -1,45 +1,39 @@
-🏠 SHome - Interior Design Website
+🏠 SHoe - Interior Design Website
+
 📋 Project Overview
-Modern interior design e-commerce website built with React.js & Bootstrap 5 featuring elegant UI, HOC patterns, and smooth animations.
+A modern interior design e-commerce website built using React.js & Bootstrap 5, featuring a clean UI, reusable HOC patterns, animations, and smooth navigation.
 
 ✨ Key Features
-🎨 Responsive Bootstrap 5 design for all devices
 
-⚛️ React HOC Pattern for reusable animations & sections
-
-🛍️ Featured Products with interactive cards & cart functionality
-
+🎨 Responsive Bootstrap 5 layout for all devices
+⚛️ React HOC Pattern for reusable animations & shared logic
+🛍️ Featured Products with interactive cards & cart support
 ✨ Smooth animations using Intersection Observer
-
-🏗️ Component-based architecture with reusable UI elements
-
-🚦 React Router for seamless navigation
-
-💝 Wishlist & quick view features
+🏗️ Component-based architecture with reusable UI blocks
+🚦 React Router for page navigation
+💝 Wishlist & quick view functionality
 
 🛠️ Tech Stack
+
 ⚛️ React.js 18
-
 🎨 Bootstrap 5
-
 🔄 React Router DOM
-
 ✨ Animate.css
-
 🎯 React Icons
 
 🎯 Highlights
+
 ✅ Production-ready React architecture
+📱 Mobile-first responsive UI
+⚡ Optimized for fast performance
+🔧 Modular & easy to extend
+🎨 Clean and modern design
 
-📱 Mobile-first responsive design
+▶️ To Run the Project
 
-⚡ Fast performance with code optimization
+You only need to type:
 
-🔧 Easy to extend with modular components
-
-🎨 Beautiful UI with modern aesthetics
-
-Perfect showcase for React skills & modern web development! 🚀
+npm start
 
 # Output-1 : ![WhatsApp Image 2025-12-03 at 11 08 36](https://github.com/user-attachments/assets/b79bd9bd-b807-4b76-b94d-8153b6bf56f1)
 
